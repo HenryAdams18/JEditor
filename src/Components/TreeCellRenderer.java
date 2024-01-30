@@ -46,7 +46,7 @@ public class TreeCellRenderer extends DefaultTreeCellRenderer{
 
 	@Override
     public Color getBackground() {
-        return (null);
+        return Color.GREEN;
     }	
 
 }
